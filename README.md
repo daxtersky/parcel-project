@@ -1,40 +1,47 @@
 
-# Boilerplate readme
+# Readme
 
-## To initialize this empty project...
+### Boilerplate for new projects with Sass, JavaScript with modules, [Parcel bundler](https://parceljs.org/) and Eslint with [Airbnb configuration](https://www.npmjs.com/package/eslint-config-airbnb)
 
-1. Terminal
-
-```
-npm init -y
-
-npm i -D parcel-bundler
-
-"dev": "parcel src/js/index.js",
-
-or can be:
-
-parcel index.html
-```
-
-
-2. Point two
-
-1. Point three
-
-## Links
+### Repo
 
 * [GitHub account](https://github.com/daxtersky)
 
-## Tech stack
+### Run this project
+
+1. Init
+
+```
+npm i
+```
+
+```
+eslint -- init
+```
+
+2. Development
+
+```
+parcel index.html
+```
+
+3. Production
+
+```
+parcel build index.html
+```
+
+
+
+### Tech stack / tools
 
 1. HTML5
 1. CSS3
 1. Sass
 1. JavaScript
+1. Parcel
+1. Esling with Airbnb config
 
-
-
-## Licence
+### Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)

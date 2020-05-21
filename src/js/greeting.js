@@ -1,5 +1,4 @@
-const greet = () => {
-  return 'Project boilerplate bundled by Parcel!';
-}
+const greet = () => 'Project boilerplate bundled by Parcel!....';
+const greet2 = () => 'JavaScript powered by Eslint with Airbnb config';
 
-export { greet };
+export default { greet, greet2 };
