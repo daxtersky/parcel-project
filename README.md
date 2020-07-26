@@ -3,7 +3,7 @@
 
 ### Intro
 
-Boilerplate for new projects with Sass, JavaScript with modules, bundled by [Parcel](https://parceljs.org/) and Eslint with Airbnb [configuration](https://www.npmjs.com/package/eslint-config-airbnb).
+Boilerplate for new projects with Scss, JavaScript with modules, bundled by [Parcel](https://parceljs.org/) and Eslint with Airbnb [configuration](https://www.npmjs.com/package/eslint-config-airbnb).
 
 ### Start & development
 
@@ -27,7 +27,7 @@ Start the project in development environment in [localhost:1234](http://localhos
 
 1. HTML5
 1. CSS3
-1. Sass
+1. Scss
 1. JavaScript
 1. Parcel
 1. Esling with Airbnb config

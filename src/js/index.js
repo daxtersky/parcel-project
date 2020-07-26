@@ -1,6 +1,6 @@
 import greetModule from './greeting';
 
-import '../sass/main.scss';
+import '../scss/main.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelector('h1').textContent = greetModule.greet();
