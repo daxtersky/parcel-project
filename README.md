@@ -1,39 +1,29 @@
 
 # Readme
 
-### Boilerplate for new projects with Sass, JavaScript with modules, [Parcel bundler](https://parceljs.org/) and Eslint with [Airbnb configuration](https://www.npmjs.com/package/eslint-config-airbnb)
+### Intro
 
-### Repo
+Boilerplate for new projects with Sass, JavaScript with modules, bundled by [Parcel](https://parceljs.org/) and Eslint with Airbnb [configuration](https://www.npmjs.com/package/eslint-config-airbnb).
 
-* [GitHub account](https://github.com/daxtersky)
+### Start & development
 
-### Run this project
+Start the project in development environment in [localhost:1234](http://localhost:1234):
 
-1. Init
+  ```npm i``` // to install all depended libraries
 
-```
-npm i
-```
+  ```eslint --init``` // to use eslint
 
-```
-eslint -- init
-```
+  ```parcel index.html``` // to run development environment
 
-2. Development
+### Production
 
-```
-parcel index.html
-```
+```parcel build index.html``` // if simple copy/paste of files prepared by Parcel in folder `/dist` is enough
 
-3. Production
+### Production with GitHub Pages & Parcel?
 
-```
-parcel build index.html
-```
+-> check [Mikey Studio project](https://github.com/daxtersky/mikey-studio) and it's [readme file](https://github.com/daxtersky/mikey-studio/blob/master/README-GITHUB-PARCEL.md)
 
-
-
-### Tech stack / tools
+### Tech stack & used tools
 
 1. HTML5
 1. CSS3
@@ -42,6 +32,7 @@ parcel build index.html
 1. Parcel
 1. Esling with Airbnb config
 
-### Licence
+### Other
 
-[MIT](https://choosealicense.com/licenses/mit/)
+* [My GitHub account](https://github.com/daxtersky)
+* [MIT](https://choosealicense.com/licenses/mit/)

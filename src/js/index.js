@@ -1,4 +1,5 @@
 import greetModule from './greeting';
+
 import '../sass/main.scss';
 
 document.addEventListener('DOMContentLoaded', () => {

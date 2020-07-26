@@ -1,5 +1,5 @@
 {
-  "name": "project-es6-project",
+  "name": "project-js-project",
   "version": "1.0.0",
   "description": "Project boilerplate bundled by Parcel",
   "main": "index.js",
@@ -7,14 +7,15 @@
     "dev": "parcel index.html",
     "prod": "parcel build index.html"
   },
+  "homepage": "https://mikey-studio.xyz",
   "keywords": [],
   "author": "Mikey Studio",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.1.0",
-    "eslint-plugin-import": "^2.20.2",
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
     "parcel-bundler": "^1.12.4",
     "sass": "^1.26.5"
   }
